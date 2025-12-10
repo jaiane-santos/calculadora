@@ -1,9 +1,12 @@
-import React from 'react'
 
-function Input() {
-  return (
-    <div>Input</div>
-  )
-}
+import { InputContainer } from './styles';
 
-export default Input
+const Input = ({value}) => {
+    return (
+      <InputContainer>
+       <input disabled value={value}/>
+      </InputContainer>
+    );
+  }
+  
+  export default Input;
