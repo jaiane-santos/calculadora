@@ -7,7 +7,12 @@ function App() {
     <Container>
       <Content>
         <Input />
-        
+         <Row>
+          <Button label="x"/>
+          <Button label="/"/>
+          <Button label="c" />
+          <Button label="."/>
+        </Row>
         <Row>
           <Button label="7" />
           <Button label="8" />
