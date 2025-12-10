@@ -12,12 +12,12 @@ Durante o desafio, parte da estrutura foi montada junto com o instrutor, e a out
 
 #### 📌 Funcionalidades
 
-✔ Adicionar números
-✔ Operações básicas: adição, subtração, multiplicação e divisão
-✔ Botão “C” para limpar
-✔ Exibição do resultado
-✔ Exibição da expressão completa 
-✔ Componentização 
+✔ Adicionar números<br>
+✔ Operações básicas: adição, subtração, multiplicação e divisão<br>
+✔ Botão “C” para limpar<br>
+✔ Exibição do resultado<br>
+✔ Exibição da expressão completa <br>
+✔ Componentização <br>
 
 #### 🧠 O que foi feito no desafio guiado
 
@@ -33,10 +33,10 @@ Durante as aulas, construímos juntos:
 
 Após o conteúdo guiado, finalizei o projeto com:
 
-🔹 Funções de multiplicação e divisão
-🔹 Lógica do botão “=” para todas as operações
-🔹 Exibição da conta completa acima do display
-🔹 Correções na lógica de estados (currentNumber, firstNumber, operation)
+🔹 Funções de multiplicação e divisão<br>
+🔹 Lógica do botão “=” para todas as operações<br>
+🔹 Exibição da conta completa acima do display<br>
+🔹 Correções na lógica de estados (currentNumber, firstNumber, operation)<br>
 🔹 Ajustes no layout e organização do código
 
 #### ▶️ Como rodar o projeto
@@ -70,18 +70,13 @@ http://localhost:3000
 
 ### 📚 Aprendizados
 
-Este projeto reforçou conceitos essenciais de React:
+- Este projeto reforçou conceitos essenciais de React:
+- Manipulação de estados com useState
+- Componentização
+- Props e callbacks
+- Tratamento de operações matemáticas
+- Construção de UI com Styled Components
 
-Manipulação de estados com useState
-
-Componentização
-
-Props e callbacks
-
-Tratamento de operações matemáticas
-
-Construção de UI com Styled Components
-
-👨‍💻 Autor
-jaiane santos
+👨‍💻 Autor :
+jaiane santos<br>
 Desenvolvedor Front-end | Estudante da DIO
