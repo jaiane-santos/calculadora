@@ -3,14 +3,14 @@
 Este projeto foi desenvolvido como parte de um desafio da Digital Innovation One (DIO), onde construímos uma calculadora funcional utilizando React.js.
 Durante o desafio, parte da estrutura foi montada junto com o instrutor, e a outra parte foi finalizada por mim, adicionando novas funcionalidades.
 
-#### 🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 
 - React.js  
 - JavaScript (ES6+)  
 - Styled Components  
 - Node.js  
 
-#### 📌 Funcionalidades
+### 📌 Funcionalidades
 
 ✔ Adicionar números<br>
 ✔ Operações básicas: adição, subtração, multiplicação e divisão<br>
@@ -19,7 +19,7 @@ Durante o desafio, parte da estrutura foi montada junto com o instrutor, e a out
 ✔ Exibição da expressão completa <br>
 ✔ Componentização <br>
 
-#### 🧠 O que foi feito no desafio guiado
+### 🧠 O que foi feito no desafio guiado
 
 Durante as aulas, construímos juntos:
 
@@ -29,7 +29,7 @@ Durante as aulas, construímos juntos:
 - A lógica de soma e subtração
 - Exibição do valor atual no display
 
-#### 🛠️ O que implementei 
+### 🛠️ O que implementei 
 
 Após o conteúdo guiado, finalizei o projeto com:
 
@@ -39,7 +39,7 @@ Após o conteúdo guiado, finalizei o projeto com:
 🔹 Correções na lógica de estados (currentNumber, firstNumber, operation)<br>
 🔹 Ajustes no layout e organização do código
 
-#### ▶️ Como rodar o projeto
+### ▶️ Como rodar o projeto
 
 Clone o repositório:
 
