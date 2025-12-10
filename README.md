@@ -1,19 +1,16 @@
-## 🧮 Calculadora React – Desafio DIO
+# 🧮 Calculadora React – Desafio DIO
 
 Este projeto foi desenvolvido como parte de um desafio da Digital Innovation One (DIO), onde construímos uma calculadora funcional utilizando React.js.
 Durante o desafio, parte da estrutura foi montada junto com o instrutor, e a outra parte foi finalizada por mim, adicionando novas funcionalidades.
 
-### 🚀 Tecnologias Utilizadas
+#### 🚀 Tecnologias Utilizadas
 
-React.js
+- React.js  
+- JavaScript (ES6+)  
+- Styled Components  
+- Node.js  
 
-JavaScript (ES6+)
-
-Styled Components
-
-Node.js
-
-### 📌 Funcionalidades
+#### 📌 Funcionalidades
 
 ✔ Adicionar números
 ✔ Operações básicas: adição, subtração, multiplicação e divisão
@@ -22,59 +19,54 @@ Node.js
 ✔ Exibição da expressão completa 
 ✔ Componentização 
 
-### O que foi feito no desafio guiado
+#### 🧠 O que foi feito no desafio guiado
 
 Durante as aulas, construímos juntos:
 
-A estrutura básica do projeto em React
+- A estrutura básica do projeto em React
+- A criação dos componentes
+- O CSS usando Styled Components
+- A lógica de soma e subtração
+- Exibição do valor atual no display
 
-A criação dos componentes
-
-O CSS usando Styled Components
-
-A lógica de soma e subtração
-
-Exibição do valor atual no display
-
-### 🛠️ O que implementei 
+#### 🛠️ O que implementei 
 
 Após o conteúdo guiado, finalizei o projeto com:
 
 🔹 Funções de multiplicação e divisão
-
 🔹 Lógica do botão “=” para todas as operações
-
 🔹 Exibição da conta completa acima do display
-
 🔹 Correções na lógica de estados (currentNumber, firstNumber, operation)
-
 🔹 Ajustes no layout e organização do código
 
 #### ▶️ Como rodar o projeto
 
 Clone o repositório:
 
+```bash
 git clone https://github.com/seu-usuario/seu-repo.git
-
+```
 
 Entre na pasta:
-
+```bash
 cd seu-repo
-
+```
 
 Instale as dependências:
-
+```bash
 npm install
-
+```
 
 Execute o projeto:
-
+```bash
 npm start
-
+```
 
 Acesse no navegador:
 
+```bash
 http://localhost:3000
+```
 
 ### 📚 Aprendizados
 
